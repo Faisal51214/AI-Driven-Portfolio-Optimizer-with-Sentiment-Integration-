@@ -4,7 +4,7 @@
 Traditional portfolio optimization methods (such as mean–variance optimization) rely only on historical returns and covariances. They fail to account for the role of market psychology and sentiment, which often drive short-term volatility and major asset shifts.
 
 ## Method
-We built an AI-driven portfolio optimizer that combines:
+I built an AI-driven portfolio optimizer that combines:
 - Historical returns, volatility, and covariance (quantitative features)
 - Sentiment analysis of financial news headlines (qualitative features)
 
